@@ -4,7 +4,7 @@
 
 ##### Proyecto que fue desarrollado como parte del curso 'React y TypeScript - La Guía Completa Creando +10 Proyectos' impartido por el profesor Juan De la Torre en Udemy, con algunas adaptaciones adicionales.
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Tienda-Online-de-Guitarras-carrito.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/app-pacientes-veterinaria-react.png)
 
 ### Expresiones de Gratitud 🎁
 
